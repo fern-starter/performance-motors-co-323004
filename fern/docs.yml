@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
+
+instances:
+  - url: octocat-api.docs.buildwithfern.com
+    edit-this-page:
+      github:
+        owner: fern-starter
+        repo: performance-motors-co-323004
+        branch: main
+      launch: dashboard
+title: octocat-api | Documentation
+layout:
+  searchbar-placement: header
+  page-width: full
+navigation:
+  - api: 7. GitHub Octodex & Postbot
+    flattened: true
+    layout:
+      - page: Introduction
+        path: docs/pages/introduction.mdx
+colors:
+  accent-primary:
+    light: "#000000"
+    dark: "#000000"
+  background:
+    light: "#F7F7F7"
+    dark: "#000000"
+  border:
+    light: "#C8C8C8"
+    dark: "#252525"
+theme:
+  page-actions: toolbar
+  footer-nav: minimal
+logo:
+  dark: docs/assets/logo-dark.png
+  light: docs/assets/logo-light.png
+  height: 20
+  href: https://buildwithfern.com
+favicon: docs/assets/favicon.svg
+css:
+  - styles.css
+  - docs/assets/onboarding-theme.css
+typography:
+  headingsFont:
+    name: Inter
+  bodyFont:
+    name: Inter
+ai-search: {}

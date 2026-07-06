@@ -1,0 +1,10 @@
+{
+  "desiredContentHash": "e3cf096476a2f2a4787c07605beb7b9863aeff1dc6fb77d37736de825384c32b",
+  "docsUrl": "https://octocat-api.docs.buildwithfern.com",
+  "starter": {
+    "repoOwner": "fern-api",
+    "repoName": "docs-starter-internal",
+    "commitSha": "63ef119238a1280f25fb1948cf2645fa9b7e9a21",
+    "label": "2026-05-21-upgrade-fern-cli-5.35.4"
+  }
+}
