@@ -3,7 +3,7 @@
   "info": {
     "title": "GitHub Octodex & Postbot",
     "version": "1.0.0",
-    "description": "<img src=\"https://content.pstmn.io/b40a2651-df53-44fa-a65f-5a3cfd662f22/aW1hZ2UucG5n\" alt=\"In%20GitHub's%20book%20'The%20Art%20of%20the%20Octocat'%20-%20you%20can%20read%20that%20Monalisa%20Octocat%20...\" width=\"602\" height=\"806\">\n\n<img src=\"https://content.pstmn.io/8643efb3-aeab-4641-be7c-3ee77cd52027/aW1hZ2UucG5n\" alt=\"...%20Mona%20in%20short%20-%20has%20many%20robot%20friends%20...\" width=\"602\" height=\"784\">"
+    "description": "<img src=\"https://content.pstmn.io/b40a2651-df53-44fa-a65f-5a3cfd662f22/aW1hZ2UucG5n\" width=\"602\" height=\"850\">\n\nIn GitHub's book 'The Art of the Octocat' - you can read that Monalisa Octocat ...\n\n<img src=\"https://content.pstmn.io/8643efb3-aeab-4641-be7c-3ee77cd52027/aW1hZ2UucG5n\" width=\"602\" height=\"784\">\n\n... Mona in short - has many robot friends ..."
   },
   "paths": {
     "/octocat": {
