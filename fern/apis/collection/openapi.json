@@ -2658,7 +2658,7 @@
     "/octocats": {
       "get": {
         "operationId": "getOctocats",
-        "summary": "Build your own Octodex API",
+        "summary": "Our own Octodex API",
         "description": "JSON is so much easier to work with than HTML, so why not create your own Octodex REST API that returns JSON? We have already created a Postman [API Mock Server](https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/) and copied all the tests and visualizations created by Postbot in this request. Once you have created your real backend, just replace the value of the `url` collection variable with the URL of your own server and run the tests again.\n\nIf you are interested in how you can design your own APIs with Postman, version them in GitHub, include CI/CD and generate server boilerplate code, [check out our documentation](https://learning.postman.com/docs/designing-and-developing-your-api/the-api-workflow/).\n\nIf you like to start with a working OpenAPI definition, [this Postman API ](https://www.postman.com/automotive-demo/workspace/my-workspace/api/012ac499-eafb-489b-af7e-66a2d01896d6) has you covered. Need some boiler plate server code [generated from the definition](https://learning.postman.com/docs/designing-and-developing-your-api/developing-an-api/generating-server-code/) using Postman and a working CI/CD pipeline - [here you go](https://github.com/jonico/octodex-rest-api).\n\n<img src=\"https://content.pstmn.io/d110b0d9-a6df-41e3-9e2e-8adea1bee91a/aW1hZ2UucG5n\" alt=\"Best%20of%20luck%20&amp;%20lots%20of%20fun%20from%20Postman%20and%20Mona%20❤️\" width=\"334\" height=\"305\">",
         "responses": {
           "200": {
@@ -5033,7 +5033,7 @@
             }
           }
         },
-        "x-fern-sdk-method-name": "Build your own Octodex API",
+        "x-fern-sdk-method-name": "Our own Octodex API",
         "parameters": [
           {
             "name": "x-mock-response-name",
